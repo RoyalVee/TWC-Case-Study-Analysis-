@@ -1,0 +1,4 @@
+1) The Age distribution for the various Patient Type
+2) What Patient Type is the highest for the Male gender and what Patient Type is highest for the Female gender
+3) Which Patient Age distribution drives Revenue and Profit
+4) Which Physician has the highest Patient Type count for Patient Type that is associated more with the elderly (Age 70 and Above)
